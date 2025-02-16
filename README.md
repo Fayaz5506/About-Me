@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and learn
 ---
 
 ### 🛠️ Tech Stack:
-- 💻 Languages: Java, JavaScript, Python, C++
+- 💻 Languages: Java, Python , C++
 - 🌐 Web Development: HTML, CSS, React.js, Node.js
 - 🛢️ Databases: MySQL, MongoDB
 - ⚙️ Tools: Git, VS Code, Postman
