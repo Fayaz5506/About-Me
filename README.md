@@ -4,6 +4,10 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and learn
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'AM+FAYAZ+SHAIKH;%F0%9F%92%BB+Languages%3A+Python+%2C+C%2B%2B;%E2%9A%99%EF%B8%8F+Tools%3A+Git%2C+VS+Code;%F0%9F%9B%A2%EF%B8%8F+Databases%3A+MySQL;%F0%9F%9A%80+Currently+learning+Java)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'AM+FAYAZ+SHAIKH;%F0%9F%92%BB+Languages%3A+Python+%2C+C%2B%2B;%E2%9A%99%EF%B8%8F+Tools%3A+Git%2C+VS+Code;%F0%9F%9B%A2%EF%B8%8F+Databases%3A+MySQL;%F0%9F%9A%80+Currently+learning+Java" alt="Typing SVG" /></a>
+
 ### 🔗 Connect with me:
 - 📷 [Instagram](https://www.instagram.com/fayaz_5506)
 - 💼 [LinkedIn](https://www.linkedin.com/in/fayaz-shaikh)
